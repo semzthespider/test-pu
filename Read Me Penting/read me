@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+                         "Aplikasi Monitoring Pencairan Dana Berbasis Web"
+"Studi Kasus : Direktorat Kerjasama dan Pemberdayaan (KSP), Ditjen Bina Konstruksi, Kmenterian PUPR"
+
+yaitu sebuah aplikasi yang mengontrol berjalannya suatu berkas yang berisi tagihan/permintaan pencairan
+dana Gaji/Tunjangan (Aparatur Sipil Negara (ASN), Honorer, Kontrak Individu (KI)), kegiatan-kegiatan (Perjalanan Dinas, Meeting,
+Operasional Kantor, Perawatan Barang), serta belanja barang (Alat Tulis Kantor, Komputer, Printer, Accesories)
+dalam lingkup Direktorat Kerja Sama dan Pemberdayaan (KSP). Tagihan atau pencairan dana ini dibuat dan diinput
+oleh Subdit Wilayah 1, Subdit Wilayah 2, Subdit Wilayah 3, Subdit Kerjasama dan Tata Usaha (TU).
+Dalam proses tagihan ini untuk pengontrolan/pengecekan berkas tagihan/permintaan pencairan dana melalui
+beberapa tahap. Tahap pertama yaitu verifikasi -> Asisten PPK -> PPK -> PPSPM -> Bendahara.
+
+<User Name             Password
+      admin            admin
+      verifikasi123    verifikasi123
+      asistenppk       asistenppk
+      ppk123           ppk123
+      ppspm123         ppspm123
+      bendahara123     bendahara123
+/>
+
+  'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'test-pu2',
+	'dbdriver' => 'mysqli',
+
+</html>
